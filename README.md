@@ -1,2 +1,6 @@
 # helllo-world
-just another repository
+ 
+ hi people 
+ 
+ bhumi here, i like earth
+I have had tacos
